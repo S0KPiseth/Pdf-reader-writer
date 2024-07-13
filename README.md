@@ -7,6 +7,7 @@ To install and set up the project, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/S0KPiseth/Pdf-reader-writer
+    cd Pdf-reader-writer
     
     ```
 
@@ -19,6 +20,6 @@ To install and set up the project, follow these steps:
 
 After finishing the installation step, to use this application, run the following command:
 ```bash
-python Pdf reader and writer.py
+python Pdf-reader-and-writer.py
 ```
-Or run Pdf reader and writer.py file directly from your IDE
+Or run Pdf-reader-and-writer.py file directly from your IDE
