@@ -109,7 +109,7 @@ def new_file():
 def open_file():
     global file_image, open_file_path
 
-    image = Image.open("32px-PDF_icon.png")
+    image = Image.open("Icon/32px-PDF_icon.png")
     image_resize = image.resize((10, 10))
 
     file_image = ImageTk.PhotoImage(image_resize)
@@ -207,8 +207,8 @@ window = Tk()
 window.title("PDCreator")
 
 
-img = ImageTk.PhotoImage(Image.open("icon.png"))
-pop_upIcon = ImageTk.PhotoImage(Image.open("popup.png"))
+img = ImageTk.PhotoImage(Image.open("Icon/icon.png"))
+pop_upIcon = ImageTk.PhotoImage(Image.open("Icon/popup.png"))
 window.wm_iconphoto(False, img)
 
 
