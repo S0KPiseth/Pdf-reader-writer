@@ -21,4 +21,4 @@ After finishing the installation step, to use this application, run the followin
 ```bash
 python Pdf reader and writer.py
 ```
-Or run UI.py file directly from your IDE
+Or run Pdf reader and writer.py file directly from your IDE
