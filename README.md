@@ -20,6 +20,6 @@ To install and set up the project, follow these steps:
 
 After finishing the installation step, to use this application, run the following command:
 ```bash
-python Pdf-reader-and-writer.py
+python main.py
 ```
-Or run Pdf-reader-and-writer.py file directly from your IDE
+Or run main.py file directly from your IDE
