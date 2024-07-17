@@ -1,5 +1,5 @@
 # Pdf reader and writer
-The program allows you to create a new file and write content on it; it will save as a pdf. You can also open the existing PDF file and modify it whenever you like.
+The program that use Azure ttk theme allows you to create a new file and write content on it; it will save as a pdf. You can also open the existing PDF file and modify it whenever you like.
 ## Installation
 
 To install and set up the project, follow these steps:
